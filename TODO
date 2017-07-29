@@ -1,0 +1,13 @@
+TODO
+---
+
+ *- package.json
+ *- npm i redux --save
+ *- npm i mocha chai --save-dev
+ *- write basic middleware redux-generators.js
+ - write tests for redux-generator for all necessary features
+    - tests folder
+    - effects.js tests
+        - write tests
+        - write the code for the effects
+    - redux-generators tests

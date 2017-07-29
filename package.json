@@ -1,0 +1,21 @@
+{
+  "name": "redux-generators",
+  "version": "0.0.1",
+  "main": "redux-generators.js",
+  "author": "Jason McCarrell <jason.abz@gmail.com> (http://www.jayeh.ca)",
+  "license": "MIT",
+  "keywords": [
+    "redux",
+    "generators"
+  ],
+  "description": "Middleware to dispatch generators as actions",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2015-native-generators": "^6.6.0",
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}

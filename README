@@ -1,0 +1,3 @@
+# Redux Generators
+
+The idea is to dispatch generators, like redux-thunks, but because they are generators they well be easy to test and give additional control compared to async/await, including takeLatest [for instant search].
